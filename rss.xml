@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the queer factory]]></title>
+        <description><![CDATA[the queer factory]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 May 2016 09:22:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<p>Welcome!</p>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">842ca4e0-cc9e-4b23-9068-d9275e61e249</guid>
+            <pubDate>Tue, 17 May 2016 09:22:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
